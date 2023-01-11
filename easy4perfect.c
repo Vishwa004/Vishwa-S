@@ -10,5 +10,5 @@ int main()
 		if(sum==num)
 		printf("The Given number is Perfect");
 		else
-		printf("The Given Number is Not Perfect");
+		printf("The Given Number is NotÂ Perfect");
 }
