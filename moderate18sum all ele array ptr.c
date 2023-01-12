@@ -11,11 +11,4 @@ int main()
 		p++;
 	}
 	printf("sum of array is:%d",sum);
-}#include<stdio.h>
-#include<conio.h>
-#include<math.h>
-int main()
-{
-
 }
-
